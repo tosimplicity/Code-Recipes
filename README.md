@@ -1,1 +1,1 @@
-# code_recipes
+Useful snippets, utility functions, and tips.
